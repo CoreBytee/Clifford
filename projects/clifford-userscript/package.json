@@ -1,0 +1,5 @@
+{
+    "name": "clifford-userscript",
+    "type": "module",
+    "main": "./src/index.ts"
+}
